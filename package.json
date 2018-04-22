@@ -1,0 +1,15 @@
+{
+  "name": "carbono-utils",
+  "version": "1.0.0",
+  "description": "Miscelaneous\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlaneous tools and utilities to help speed the development process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/CarbonoDev/carbono-utils"
+  },
+  "author": "Carbono Dev",
+  "license": "ISC"
+}
